@@ -1,3 +1,0 @@
-Este es un nuevo archivo de prueba
-Nueva línea añadida al archivo
-Este cambio es desde la rama mejora-texto
